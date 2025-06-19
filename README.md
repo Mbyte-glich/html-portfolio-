@@ -1,2 +1,2 @@
 # html-portfolio-
-Its one of the Course project/work.
+Its one of the Course mini project/work.
